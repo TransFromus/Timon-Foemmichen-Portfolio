@@ -302,10 +302,10 @@ section {
 .details-container {
   padding: 1.5rem;
   flex: 1;
-  background: white;
+  background: #081920;
   border-radius: 2rem;
   border: rgb(53, 53, 53) 0.1rem solid;
-  border-color: rgb(163, 163, 163);
+  border-color: #07de8f;
   text-align: center;
   color: #07de8f;
 }
@@ -320,7 +320,10 @@ section {
   width: 400px;
   margin: auto 0;
 }
-
+.text-container p{
+  color: #07de8f;
+  text-align: center;
+}
 /* EXPERIENCE SECTION */
 
 #experience {
@@ -401,7 +404,7 @@ article .icon {
   justify-content: center;
   border-radius: 2rem;
   border: rgb(53, 53, 53) 0.1rem solid;
-  border-color: rgb(163, 163, 163);
+  border-color: #07de8f;
   background: (250, 250, 250);
   margin: 2rem auto;
   padding: 0.5rem;
